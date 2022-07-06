@@ -7,3 +7,6 @@ I have started my full stack web development job in 2022.
 I will join a MFile 1st of December.
 logo alignment is centered.
 this text is added in main branch.
+I love Bangladesh.
+I have a computer.
+I love to eat grill checker fry.
